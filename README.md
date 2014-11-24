@@ -1,5 +1,3 @@
-nosql
-=====
 # NoSQL
 
 #Zadanie 1
