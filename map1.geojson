@@ -1,0 +1,38 @@
+{
+        "type": "FeatureCollection",
+        "features":
+        [
+                {
+                        "type": "Feature",
+                        "geometry" : {
+                                "_id" : "Niewieœcin",
+                                "type" : "Point",
+                                "coordinates" : [
+                                        18.224084,
+										53.293236
+                                ]
+                        }
+                },
+                {
+                        "type": "Feature",
+                        "geometry" : {
+                                "_id" : "Che³mno",
+                                "type" : "Point",
+                                "coordinates" : [
+                                        18.451325,
+										53.351649
+                                ]
+                        }
+                },
+                {
+                        "type": "Feature",
+                        "geometry" : {
+                                "type": "Polygon",
+                                "coordinates": [
+                                [ [17.993550, 53.129189], [18.755727, 53.478574], 
+                                [17.869270, 53.586227], [17.993550, 53.129189] ]											
+                                ]
+                        }
+                }
+        ]
+}
